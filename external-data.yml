@@ -5,4 +5,3 @@ settings:
   database: gis
   metadata_table: external_data
 sources:
-
